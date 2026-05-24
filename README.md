@@ -1,3 +1,6 @@
+<img src="" alt="Dheeraj Singh GitHub Banner" width="100%">
+
+
 # 💫 About Me:
 🔭 I’m currently working on Building cloud-native AI integrations and scalable full-stack web applications. <br> 👯 I’m looking to collaborate on Innovative MERN stack projects, open-source development, and technical hackathons. <br> 🤔 I’m looking for help with Deploying production-ready deep learning models and optimizing serverless workflows.<br>🌱 I’m currently learning Machine Learning (ML), Deep Learning, advanced neural networks, and refining my data structures & algorithms (DSA).<br>💬 Ask me about React, Node.js, AWS Serverless architecture, and web development.  <br>⚡ Fun fact enjoy bridging the gap between complex backend AI logic and building clean, highly responsive user interfaces!
 

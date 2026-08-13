@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/Dheeraj-30/Dheeraj-30/blob/main/Github_banner.png" alt="Dheeraj Singh GitHub Banner" width="100%">
+<img src="https://github.com/Dheeraj-30/Dheeraj-30/blob/main/Github_banner.png" alt="Dheeraj Singh GitHub Banner" width="100%">
 
 
 # 💫 About Me:
@@ -18,6 +18,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Dheeraj-30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 
